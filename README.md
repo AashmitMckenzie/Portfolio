@@ -1,6 +1,6 @@
 # 🌐 Aashmit McKenzie - Personal Portfolio
 
-A clean, responsive personal portfolio website built with modern web technologies to showcase my cybersecurity expertise and development skills.
+A clean, responsive personal portfolio website built with modern web technologies to showcase my cybersecurity expertise and development skills. Click here to visit -> https://aashmitmckenzie.github.io/Portfolio/
 
 ## ✨ Features
 
